@@ -1,0 +1,21 @@
+	{
+  "name": "devopsprofessional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushtoakshay/DevOpsProfessional.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushtoakshay/DevOpsProfessional/issues"
+  },
+  "homepage": "https://github.com/rushtoakshay/DevOpsProfessional#readme"
+}
+
